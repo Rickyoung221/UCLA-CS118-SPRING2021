@@ -24,7 +24,7 @@ struct MIME{
 struct MIME mime [] = {
     {"gif", "image/gif" },
     {"jpg", "image/jpeg"},
-    {"jpeg","image/jpeg"},
+    {"png","image/png"},
     {"txt",  "text/plain"},
     {"htm", "text/html" },
     {"html","text/html" },
