@@ -54,6 +54,9 @@ The goal of this project is to use UDP to build a reliable delivery similar as T
 
 Ubuntu 20.04 (Virtual Machine)
 
-## Some Conclusion after Demo
+## Some Updates after Demo
 6/10/2021: 
 The program when sending 1MB file with 20% loss rate is extremely slow. I may implement SR in a wrong way. Will check on it when I am available. 
+
+6/11/2021:
+Reason found, the receiver buffer didn't implement correctly, it doesn't handle out-of-order packet. Will update the code later.
