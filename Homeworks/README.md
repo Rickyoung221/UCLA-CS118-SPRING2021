@@ -1,6 +1,6 @@
 | Homework# | Grade                                                   |
 | --------- | ------------------------------------------------------- |
-| 1         | - (Enroll the course after hw deadline, cannot make up) |
+| 1         | - (Enroll in the course after hw deadline, cannot make up) |
 | 2         | 96.5/100                                                |
 | 3         | 95/100                                                  |
 | 4         | 97/100                                                  |
